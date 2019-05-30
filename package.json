@@ -2,7 +2,7 @@
   "name": "new",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://github.com/greenhousecoder/koodi2.git",
+  "homepage" : "https://github.com/greenhousecoder/koodi3.git",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
