@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/greenhousecoder/koodi2.git/static/css/main.a6e9332f.chunk.css",
-    "main.js": "/greenhousecoder/koodi2.git/static/js/main.53e4ad8f.chunk.js",
-    "main.js.map": "/greenhousecoder/koodi2.git/static/js/main.53e4ad8f.chunk.js.map",
-    "runtime~main.js": "/greenhousecoder/koodi2.git/static/js/runtime~main.8aa83539.js",
-    "runtime~main.js.map": "/greenhousecoder/koodi2.git/static/js/runtime~main.8aa83539.js.map",
-    "static/js/2.dbe68bbe.chunk.js": "/greenhousecoder/koodi2.git/static/js/2.dbe68bbe.chunk.js",
-    "static/js/2.dbe68bbe.chunk.js.map": "/greenhousecoder/koodi2.git/static/js/2.dbe68bbe.chunk.js.map",
-    "index.html": "/greenhousecoder/koodi2.git/index.html",
-    "precache-manifest.351767f16cbc209cee482eb954803090.js": "/greenhousecoder/koodi2.git/precache-manifest.351767f16cbc209cee482eb954803090.js",
-    "service-worker.js": "/greenhousecoder/koodi2.git/service-worker.js",
-    "static/css/main.a6e9332f.chunk.css.map": "/greenhousecoder/koodi2.git/static/css/main.a6e9332f.chunk.css.map",
-    "static/media/App.css": "/greenhousecoder/koodi2.git/static/media/bg.db29b234.png"
+    "main.css": "/greenhousecoder/koodi3.git/static/css/main.77333923.chunk.css",
+    "main.js": "/greenhousecoder/koodi3.git/static/js/main.cdedd70c.chunk.js",
+    "main.js.map": "/greenhousecoder/koodi3.git/static/js/main.cdedd70c.chunk.js.map",
+    "runtime~main.js": "/greenhousecoder/koodi3.git/static/js/runtime~main.1dee8ca1.js",
+    "runtime~main.js.map": "/greenhousecoder/koodi3.git/static/js/runtime~main.1dee8ca1.js.map",
+    "static/js/2.bc242b91.chunk.js": "/greenhousecoder/koodi3.git/static/js/2.bc242b91.chunk.js",
+    "static/js/2.bc242b91.chunk.js.map": "/greenhousecoder/koodi3.git/static/js/2.bc242b91.chunk.js.map",
+    "index.html": "/greenhousecoder/koodi3.git/index.html",
+    "precache-manifest.6c515331b8d410bb3c100f429fac42c5.js": "/greenhousecoder/koodi3.git/precache-manifest.6c515331b8d410bb3c100f429fac42c5.js",
+    "service-worker.js": "/greenhousecoder/koodi3.git/service-worker.js",
+    "static/css/main.77333923.chunk.css.map": "/greenhousecoder/koodi3.git/static/css/main.77333923.chunk.css.map",
+    "static/media/App.css": "/greenhousecoder/koodi3.git/static/media/bg.db29b234.png"
   }
 }
