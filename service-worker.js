@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/greenhousecoder/koodi3.git/precache-manifest.b155ca5b638b309ba416a7d2215cf3d7.js"
+  "/greenhousecoder/koodi3.git/precache-manifest.0fb0277e361d80648983008527a0f90f.js"
 );
 
 self.addEventListener('message', (event) => {
