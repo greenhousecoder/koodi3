@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff609ecffed85f1c0fedfef410a60853",
+    "revision": "b298575bd2d940eb03bcc07011dfd17d",
     "url": "/greenhousecoder/koodi3.git/index.html"
   },
   {
-    "revision": "aceebcf60733853d292a",
+    "revision": "ce99122ad3bed0c9b7a8",
     "url": "/greenhousecoder/koodi3.git/static/css/main.77333923.chunk.css"
   },
   {
-    "revision": "67859fc230ba41c4b537",
-    "url": "/greenhousecoder/koodi3.git/static/js/2.bc242b91.chunk.js"
+    "revision": "33a843f853f5d21bb32e",
+    "url": "/greenhousecoder/koodi3.git/static/js/2.f0d7cfaf.chunk.js"
   },
   {
-    "revision": "aceebcf60733853d292a",
-    "url": "/greenhousecoder/koodi3.git/static/js/main.46b77a13.chunk.js"
+    "revision": "ce99122ad3bed0c9b7a8",
+    "url": "/greenhousecoder/koodi3.git/static/js/main.8c509aad.chunk.js"
   },
   {
     "revision": "6f97c6534351798fa67c",
